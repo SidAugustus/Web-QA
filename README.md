@@ -1,1 +1,2 @@
-# Web-QA
+# Web-Based-Question-Answering-System-using-AI-and-Web-Scraping
+Developed a web application using Python and Streamlit that enables users to input a website URL and ask questions about its content. Utilized web scraping techniques with BeautifulSoup to extract relevant text data from the website. Integrated a language model to generate accurate answers based on the retrieved information. Implemented error handling and data processing optimizations to ensure efficient performance.
